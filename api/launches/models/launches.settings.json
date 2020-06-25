@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "launches",
+  "info": {
+    "name": "Launch"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "date": {
+      "type": "datetime"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
