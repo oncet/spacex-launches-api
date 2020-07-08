@@ -9,13 +9,13 @@
     "timestamps": true
   },
   "attributes": {
+    "title": {
+      "type": "string"
+    },
     "date": {
       "type": "datetime"
     },
     "url": {
-      "type": "string"
-    },
-    "title": {
       "type": "string"
     }
   }
